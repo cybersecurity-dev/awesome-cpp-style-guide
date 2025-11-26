@@ -1,10 +1,12 @@
 <p align="center">
-    <a href="https://cppreference.com/">
+    <a href="https://github.com/cybersecurity-dev/awesome-cpp-programming-language">
       <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Cpp_logo.svg" />
     </a>
 </p>
 
-# Awesome C++ [Style](https://en.wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome C++ [Style](https://en.wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
@@ -40,4 +42,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cpp-style-guide/graphs/contributors)!
 
-[🔼 Back to top](#awesome-cpp-style-guide-)
+[🔼 Back to top](#awesome-c-style-guide-)

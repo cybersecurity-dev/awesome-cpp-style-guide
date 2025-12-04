@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome C++ [Style](https://en.wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** C++ [Style](https://wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 

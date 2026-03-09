@@ -6,6 +6,7 @@
     </p>
 
 # **`Awesome`** C++ [Style](https://wikipedia.org/wiki/Programming_style) Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[**`C++11`**](https://wikipedia.org/wiki/C%2B%2B11) | [**`C++14`**](https://en.wikipedia.org/wiki/C%2B%2B14) | [**`C++17`**](https://en.wikipedia.org/wiki/C%2B%2B17) | [**`C++20`**](https://en.wikipedia.org/wiki/C%2B%2B20) | [**`C++23`**](https://en.wikipedia.org/wiki/C%2B%2B23) | [**`C++26`**](https://en.wikipedia.org/wiki/C%2B%2B26)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
